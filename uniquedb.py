@@ -49,7 +49,7 @@ def shuffle(db, permutation):
 
 
 
-def unique_database(N):
+def uniquedb(N):
     """
     Return the unique database with length N
     """
